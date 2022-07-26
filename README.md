@@ -13,7 +13,7 @@
   - [Questions](#questions)
   
   ## Description 
-This is a simple application you can use to track your employees through a database.
+This is a simple application you can use to help you budget!
   ## Installation
 npm i
 node server.js
